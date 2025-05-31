@@ -26,7 +26,7 @@ This is a sleek and functional calculator built using **HTML**, **CSS**, and **J
 ## 📸 Screenshot
 
 
-![Screenshot 2025-05-29 230542](https://github.com/user-attachments/assets/df4e41e6-27a6-4232-ac27-26b2e4b6ea0d)
+![Screenshot 2025-05-29 230542](https://github.com/user-attachments/assets/d3f1600f-a747-4c22-8808-a385d0da1cee)
 
 ---
 
