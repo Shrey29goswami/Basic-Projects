@@ -1,0 +1,51 @@
+===========================
+# OT Scheduler Pro 🏥
+===========================
+
+## 🧠 Overview
+===================
+Dynamic scheduling system for Operation Theatres in hospitals. Replaces static timetables with an interactive interface 
+for admins and staff.
+
+## 🔧 Features
+===================
+- Register/Login for Admins and Users
+- Add/Edit/Delete doctors and patients
+- Schedule surgeries with full metadata
+- View OT schedules for any day
+- Attach reports, materials, and track events
+- Logs every action for accountability
+
+## 💻 Tech Stack
+===================
+- Frontend: React.js
+- Backend: Node.js + Express
+- DB: MongoDB
+- Logging: Winston
+- Hosting: Render/Vercel (Optional)
+
+## 🚀 Setup
+===================
+1. Clone repo
+2. Install dependencies
+3. Create `.env` file with DB URL and JWT secret
+4. Run `npm start`
+5. Open `http://localhost:3000`
+
+## 📋 Workflows
+===================
+- Surgery scheduling → Checks availability → Logs change → Stores in DB
+- Admin dashboard → Fetches real-time OT data → Displays changes
+
+## 📁 Folder Structure
+====================
+- `/routes` - API routes
+- `/models` - MongoDB schemas
+- `/controllers` - Logic handlers
+- `/logs` - Logging files
+
+## 📄 LLD
+=====================
+Available in `docs/LLD.md`
+
+## 📦 GitHub Repo
